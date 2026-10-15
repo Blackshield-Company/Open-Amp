@@ -1,3 +1,5 @@
+![Open-Amp](.github/preview.png)
+
 # Open Amp
 
 ![Version](https://img.shields.io/badge/version-1.2.0-blue)
