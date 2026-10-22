@@ -3,7 +3,7 @@
 # Open Amp
 
 ![Version](https://img.shields.io/badge/version-1.2.0-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
+![License](https://img.shields.io/badge/license-Apache--2.0-green)
 
 A professional cross-platform guitar amplifier and effects processor synthwave edition.
 
@@ -225,7 +225,7 @@ The app responds to standard MIDI CC messages:
 
 ## 📄 License
 
-MIT License — see [LICENSE](LICENSE) for details.
+Apache-2.0 — see [LICENSE](LICENSE) for details.
 
 ## 🎹 Credits
 

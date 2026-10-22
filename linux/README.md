@@ -164,7 +164,7 @@ User presets are stored in:
 
 ## License
 
-MIT License - See LICENSE file for details.
+Apache-2.0 - See [LICENSE](../LICENSE) for details.
 
 ## Credits
 
