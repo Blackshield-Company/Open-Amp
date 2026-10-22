@@ -5,7 +5,7 @@ pkgrel=1
 pkgdesc="Guitar amplifier simulator with real-time DSP effects"
 arch=('x86_64')
 url="https://github.com/synthalorian/Open-Amp"
-license=('MIT')
+license=('Apache-2.0')
 depends=(
   'qt6-base'
   'qt6-declarative'
