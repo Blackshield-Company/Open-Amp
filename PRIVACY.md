@@ -30,4 +30,4 @@ If this ever changes, this document changes first, in this repository's
 public git history.
 
 Contact: open an issue at
-https://github.com/synthalorian/Open-Amp/issues
+https://github.com/Blackshield-Company/Open-Amp/issues

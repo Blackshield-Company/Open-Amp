@@ -4,7 +4,7 @@ pkgver=2.0.0
 pkgrel=1
 pkgdesc="Guitar amplifier simulator with real-time DSP effects"
 arch=('x86_64')
-url="https://github.com/synthalorian/Open-Amp"
+url="https://github.com/Blackshield-Company/Open-Amp"
 license=('Apache-2.0')
 depends=(
   'qt6-base'
@@ -20,7 +20,7 @@ makedepends=(
   'gcc'
   'pkgconf'
 )
-source=("$pkgname-$pkgver.tar.gz::https://github.com/synthalorian/Open-Amp/archive/v$pkgver.tar.gz")
+source=("$pkgname-$pkgver.tar.gz::https://github.com/Blackshield-Company/Open-Amp/archive/v$pkgver.tar.gz")
 sha256sums=('SKIP')
 
 build() {

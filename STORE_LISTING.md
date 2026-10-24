@@ -43,7 +43,7 @@ Music & Audio
 - Microphone: used for real-time on-device processing, NOT collected or shared
 - No data collected or shared overall
 - Privacy policy URL:
-  https://github.com/synthalorian/Open-Amp/blob/main/PRIVACY.md
+  https://github.com/Blackshield-Company/Open-Amp/blob/main/PRIVACY.md
 
 ## Store assets (in repo)
 - store-assets/icon-512.png
