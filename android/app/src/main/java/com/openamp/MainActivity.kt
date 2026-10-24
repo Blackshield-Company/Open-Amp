@@ -317,7 +317,7 @@ class MainActivity : ComponentActivity() {
         val openSourceButton = findViewById<Button>(R.id.openSourceButton)
         openSourceButton.setOnClickListener {
             val intent = android.content.Intent(android.content.Intent.ACTION_VIEW)
-            intent.data = android.net.Uri.parse("https://github.com/synthalorian/Open-Amp")
+            intent.data = android.net.Uri.parse("https://github.com/Blackshield-Company/Open-Amp")
             startActivity(intent)
         }
 
